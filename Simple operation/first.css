@@ -1,0 +1,37 @@
+body{
+    background-color: #303443;
+}
+#div1{
+    background-color: grey;
+    height: 500px;
+    width:400px;
+    border: 2px solid aqua ;
+}
+
+#input1 ,  #input2, #input3{
+    border: 2px solid aqua ;
+    height: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#button1{
+    border: 2px solid aqua ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div2{
+    height: 60px;
+    width: 300px;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: 300;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: chartreuse;
+}
+
+
+
