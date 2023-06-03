@@ -22,3 +22,6 @@ ul li {
     animation: animate 1s infinte linear;
     font-weight: 600;
 }
+
+@keyframes animate {    
+}
