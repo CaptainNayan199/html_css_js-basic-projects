@@ -53,6 +53,13 @@ ul li {
     70% {
         color: black;
         text-shadow: none;
+    }
+
+    85% {
+        color: yellow;
+        text-shadow: 0 0 7px yellow, 0 0 20px #ff6c00;
       }
+
+    
 
 }
