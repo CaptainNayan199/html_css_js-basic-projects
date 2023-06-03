@@ -70,3 +70,7 @@ ul li {
         text-shadow: none;
     }
 }
+
+ul li:nth-child(1){
+    animation-delay: .3s;
+}
