@@ -24,4 +24,7 @@ ul li {
 }
 
 @keyframes animate {    
+    0%{
+     color: black;   
+    }
 }
