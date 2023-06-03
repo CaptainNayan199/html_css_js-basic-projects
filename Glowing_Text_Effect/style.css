@@ -4,7 +4,7 @@ body {
     background-color: rgb(17, 15, 15);
 }
 
-ul{
+ul {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -13,6 +13,7 @@ ul{
     padding: 0;
     display: flex;
 }
+
 ul li {
     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -23,22 +24,30 @@ ul li {
     font-weight: 600;
 }
 
-@keyframes animate {    
-    0%{
-     color: black;   
-     text-shadow: none;
+@keyframes animate {
+    0% {
+        color: black;
+        text-shadow: none;
     }
-    18%{
-      color: black;
-      text-shadow: none;
+
+    18% {
+        color: black;
+        text-shadow: none;
     }
-    20%{
+
+    20% {
         color: yellow;
         text-shadow: 0 0 7px yellow, 0 0 20px #ff6c00;
     }
-    30%{
+
+    30% {
         color: black;
         text-shadow: none;
-      }
+    }
+
+    35% {
+        color: yellow;
+        text-shadow: 0 0 7px yellow, 0 0 20px #ff6c00;
+    }
 
 }
