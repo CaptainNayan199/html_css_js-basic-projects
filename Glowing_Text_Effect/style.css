@@ -106,3 +106,7 @@ ul li:nth-child(8){
 ul li:nth-child(9){
     animation-delay: 2.7s;
 }
+
+ul li:nth-child(10){
+    animation-delay: 3s;
+}
