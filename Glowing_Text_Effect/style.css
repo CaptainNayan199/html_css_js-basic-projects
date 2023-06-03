@@ -20,4 +20,5 @@ ul li {
     letter-spacing: 15px;
     text-shadow: none;
     animation: animate 1s infinte linear;
+    font-weight: 600;
 }
