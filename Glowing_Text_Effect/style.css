@@ -65,5 +65,10 @@ ul li {
         text-shadow: none;
     }
 
-    
+    100% {
+        color: black;
+        text-shadow: none;
+    }
+
+
 }
