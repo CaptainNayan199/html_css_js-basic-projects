@@ -36,5 +36,9 @@ ul li {
         color: yellow;
         text-shadow: 0 0 7px yellow, 0 0 20px #ff6c00;
     }
-    
+    30%{
+        color: black;
+        text-shadow: none;
+      }
+
 }
