@@ -32,4 +32,8 @@ ul li {
       color: black;
       text-shadow: none;
     }
+    20%{
+        color: yellow;
+        text-shadow: 0 0 7px yellow, 0 0 20px #ff6c00;
+    }
 }
