@@ -98,3 +98,7 @@ ul li:nth-child(6){
 ul li:nth-child(7){
     animation-delay: 2.1s;
 }
+
+ul li:nth-child(8){
+    animation-delay: 2.4s;
+}
